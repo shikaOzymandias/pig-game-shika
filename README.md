@@ -1,6 +1,6 @@
 # PIG-Game 🎊 🎊 🎈
 
-## Pig game from Jonas Schmedtmann Js tutorial
+### Pig game from Jonas Schmedtmann Js tutorial
 
 GAME RULES 🤩⭐
 The game has 2 players, playing in rounds
